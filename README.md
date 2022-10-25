@@ -33,7 +33,7 @@
     - Croatia
     - Denmark
     - England
-    - France
+    - France (this text should not be here)
     - Germany
     - Netherlands
     - Poland
