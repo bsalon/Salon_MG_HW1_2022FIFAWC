@@ -33,7 +33,7 @@
     - Croatia
     - Denmark
     - England
-    - France (this text should not be here)
+    - France
     - Germany
     - Netherlands
     - Poland
@@ -42,7 +42,35 @@
     - Spain
     - Switzerland
     - Wales
-* **best_players**
-  - Vinicius Jr.
-  - Victor Sá
-  - Mateo Kovačić
+* **BEST PLAYERS**
+    - Kylian Mbappe
+    - Lionel Messi
+    - Kevin De Bruyne
+    - Cristiano Ronaldo
+    - Vinicius Jr.
+    - Takefusa Kubo
+    - Neymar
+    - Pedri
+    - Karim Benzema
+    - Luka Modric
+    - Alphonso Davies
+    - Christian Pulisic
+    - Harry Kane
+    - Luan
+    - Rony
+    - Thiago Silva
+    - Matheus Pereira
+    - Raphael Veiga
+    - Romelu Lukaku
+    - Gustavo Scarpa
+    - Maximiliano Meza
+    - Muteb Almufarrij
+    - Hakim Ziyech
+    - Nasser Al-Dawsari
+    - Mason Mount
+    - Mohamed El-Shenawy
+    - Taher Mohamed
+    - Joel Campbell
+    - Erick Aguirre
+    - Victor S�
+    - Mateo Kovačić
